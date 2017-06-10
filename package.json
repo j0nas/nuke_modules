@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/j0nas/nuke_modules#readme",
   "dependencies": {
+    "inquirer": "^3.1.0",
     "log-update": "^2.0.0",
     "pkg-dir": "^2.0.0",
     "readdir-enhanced": "^1.5.2",

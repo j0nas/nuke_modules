@@ -1,6 +1,6 @@
 {
   "name": "nuke_modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Delete node_modules without freezing UI",
   "bin": {
     "nuke_modules": "index.js"

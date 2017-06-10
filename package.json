@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/j0nas/nuke_modules/issues"
   },
-  "homepage": "https://github.com/j0nas/nuke_modules#readme"
+  "homepage": "https://github.com/j0nas/nuke_modules#readme",
+  "dependencies": {
+    "pkg-dir": "^2.0.0",
+    "readdir": "0.0.13",
+    "readdir-enhanced": "^1.5.2",
+    "rimraf": "^2.6.1"
+  }
 }
